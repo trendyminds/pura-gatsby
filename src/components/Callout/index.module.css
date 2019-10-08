@@ -1,0 +1,17 @@
+.main {
+  background-color: rebeccapurple;
+  color: #fff;
+  padding: 1rem;
+
+  &__heading {
+    margin: 0;
+  }
+
+  &__body {
+    margin: 0.5rem 0 0;
+  }
+
+  &__body a {
+    color: #fff;
+  }
+}

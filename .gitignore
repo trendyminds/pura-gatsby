@@ -1,0 +1,57 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+.stylelintcache
+node_modules/
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+_notes
+.vscode
+dwsync.xml
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Caches
+build/Release
+typings/
+.npm
+.eslintcache
+*.tgz
+
+# dotenv environment variables file
+.env
+
+# Yarn
+yarn-error.log
+yarn.lock
+.pnp/
+.pnp.js
+.yarn-integrity
+
+# Gatsby
+.cache/
+public
