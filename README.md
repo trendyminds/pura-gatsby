@@ -14,6 +14,8 @@ This project supports the following browsers: Chrome, Firefox, Safari and Edge
 ## ⚛️ Why Gatsby?
 Gatsby is an "open source framework based on React that helps developers build blazing fast websites and apps". The Gatsby platform provides a number of benefits that [Pura](https://github.com/trendyminds/pura) is unable to offer:
 
+- Maintained by a large community of developers. When Gatsby improves, so will Pura.
+- [Automatic JS polyfills](https://www.gatsbyjs.org/docs/browser-support/#polyfills) when you use something like `[].includes` Gatsby is smart enough to include those polyfills for you.
 - [Critical CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/) is automatically generated for you
 - [CSS Modules](https://www.gatsbyjs.org/docs/css-modules/) are available out-of-the box. This allows your CSS to be automatically scoped for your components
 - [Sophisticated code splitting](https://www.gatsbyjs.org/docs/how-code-splitting-works/) Not using a particular component or JS library on a page? Gatsby will only deliver the CSS and JS you're using
