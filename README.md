@@ -19,6 +19,7 @@ Gatsby is an "open source framework based on React that helps developers build b
 - [Sophisticated code splitting](https://www.gatsbyjs.org/docs/how-code-splitting-works/) Not using a particular component or JS library on a page? Gatsby will only deliver the CSS and JS you're using
 - Your site has [PWA support](https://www.gatsbyjs.org/docs/progressive-web-app/) without any complex configurations
 - A built-in templating language in React. Because Gatsby uses React you have the ability to use a templating system without reaching for something like Twig, Pug, HAML or another library.
+- Built-in routing without needing to reach for a service like Express.js
 
 ## 📦 Deploying
 To deploy your site, simply run `gatsby build` and deploy the `public/` folder to your web server.
